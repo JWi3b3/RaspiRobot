@@ -1,0 +1,1 @@
+./Debug/Camera.cpp.o ./Debug/main.cpp.o
